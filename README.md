@@ -1,2 +1,3 @@
 # Sage
-Sick Ass Game Engine 
+
+SAGE
